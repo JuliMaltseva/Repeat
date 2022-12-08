@@ -116,7 +116,7 @@ public class Main {
         System.out.println("firstNumber = " + firstNumber);
         long secondNumber = 987_678_965_549L;
         System.out.println("secondNumber = " + secondNumber);
-        byte thirdNumber = 2;
+        double thirdNumber = 2.786;
         System.out.println("thirdNumber = " + thirdNumber);
         boolean monthNumber = thirdNumber == 12;
         System.out.println("monthNumber - " + thirdNumber + ". It is "+ monthNumber);
